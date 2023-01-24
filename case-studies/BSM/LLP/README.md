@@ -17,8 +17,7 @@ Indico category: https://indico.cern.ch/category/5664/
 mailing list: LLP-FCCee-informal@cern.ch
 
 #### Interested people (evolving)
-Rebeca Gonzalez Suarez(U.Uppsala), Rohini Sengupta(U.Uppsala), Patrizia Azzi (INFN-PD), Juliette Alimena(CERN), 
-Sylvie Braibant-Giacomelli (U.Bologna), Valentina Diolaiti (U. Bologna), ... (42 members in the mailing list at th emoment of writing) 
+Rebeca Gonzalez Suarez(U.Uppsala), Suchita Kulkarni (U. Graz), Juliette Alimena(CERN), Guilia Ripellino (U.Uppsala), Sarah Williams (Cambridge), Patrizia Azzi (INFN-PD), Sylvie Braibant-Giacomelli (U.Bologna), Valentina Diolaiti (U. Bologna), ... (42 members in the mailing list at th emoment of writing) 
 
 #### Plan
 - Evaluate Delphes capabilities for treatement of long lived particles on some simple events
@@ -32,11 +31,11 @@ Sylvie Braibant-Giacomelli (U.Bologna), Valentina Diolaiti (U. Bologna), ... (42
 
 #### Generator cards 
 
-- Here information from specific benchmark models 
+- Heavy neutral leptons (https://arxiv.org/abs/1411.7305, https://arxiv.org/abs/1602.06957)
+- ALPs (https://arxiv.org/abs/1808.10323)
+- H -> XX (https://arxiv.org/abs/1412.0018)
 
 #### WIP
-  - Valentina: study of the momentum resolution versus displacement building on top of previous work. Starting point could be a particle gun with muons in pythia generating a wide spectrum from prompt to 1,5 meters of distance from the collision point (the whole tracker) and see what happens.
-  
- - Rohini: using setup from Suchita, try to generate samples with varying parameters, to then check how collimated the decay products of the RHN are and produce performance plots.
- 
- - Emilia: using Suchita's files, prepare RHN event-display for CERN courier.
+- Identify promising observabls for identifying Dirac vs Majorana 
+- Develop HNL analyses in different regions of the detector 
+- Develop ALPs analyses including photon final state
